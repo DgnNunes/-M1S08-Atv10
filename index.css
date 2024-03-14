@@ -1,0 +1,23 @@
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 1px solid #d81919;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(32, 29, 29, 0.1);
+    background-color: rgb(203, 203, 203);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #35ac2a;
+}
